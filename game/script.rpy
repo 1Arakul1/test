@@ -82,25 +82,25 @@ label start:
 
     scene fondo0
     with fade
-    cr "Hola soy Luchetty, el creador de esta novela"
-    cr "Solo queria agradecerte por descargarla"
-    cr "Me ayudas mucho :)"
-    cr "Bueno... ya dejare de molestarte"
-    cr "Espero disfrutes de la novela <3"
+    cr "Привет, я Лучетти, автор этого романа."
+    cr "Я просто хотел поблагодарить вас за загрузку."
+    cr "Вы мне очень помогаете :)"
+    cr "Ну... я перестану тебя беспокоить"
+    cr "Надеюсь, вам понравится роман <3"
     stop music
-    "Este juego contiene escenas para adultos."
-    "Tienes que ser mayor de 18 años para continuar."
-    "Todos los personajes mostrados dentro de este juego tienen mas de 18 años."
+    "Эта игра содержит сцены для взрослых."
+    "Вы должны быть старше 18 лет, чтобы продолжить."
+    "Все персонажи, показанные в этой игре, старше 18 лет.."
 
     play music"audio/bgm/Folksy Days.mp3"
     scene fondo00
-    "Hoy comenzara tu aventura dentro de este maravilloso mundo."
-    "Luego de lo ocurrido en tu aldea."
-    "Y de la desaparicion de tus padres y tus hermanas."
-    "Eres enviado a la aldea de la hoja Para continuar tu entrenamiento Ninja."
-    "Aqui comienza tu historia."
+    "Сегодня ваше приключение начнется в этом чудесном мире.."
+    "После того, что произошло в твоей деревне."
+    "И об исчезновении твоих родителей и твоих сестер."
+    "Вас отправляют в деревню листьев, чтобы продолжить обучение ниндзя.."
+    "Здесь начинается твоя история."
 
-    "Dime tu nombre"
+    "скажите мне ваше имя"
 
     $ Orion = renpy. input("Your Name",default = "Orion", length = 10)
 

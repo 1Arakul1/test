@@ -4,43 +4,43 @@
 translate English start_7960e836:
 
 
-    "This game contains adult scenes"
+    "Эта игра содержит сцены для взрослых"
 
 
 translate English start_b99cdc50:
 
 
-    "You must be 18 years or older"
+    "Вам должно быть 18 лет или больше"
 
 
 translate English start_be8383c5:
 
 
-    "All characters shown in this game are over 18 years old"
+    "Все персонажи, показанные в этой игре, старше 18 лет."
 
 
 translate English start_3d11a4b3:
 
 
-    "Today will begin your adventure into this wonderful world."
+    "Сегодня начнется ваше приключение в этот удивительный мир."
 
 
 translate English start_9ce870f2:
 
 
-    "After what happened in your village"
+    "После того, что случилось в твоей деревне"
 
 
 translate English start_0ab3e5eb:
 
 
-    "and the disappearance of your parents and sisters"
+    "и исчезновение твоих родителей и сестер"
 
 
 translate English start_600692b2:
 
 
-    "You are sent to the leaf village to continue your Ninja training."
+    "Вас отправляют в деревню листьев, чтобы продолжить обучение ниндзя.."
 
 
 translate English start_23763902:
